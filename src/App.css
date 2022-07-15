@@ -1,0 +1,172 @@
+
+  /* nav style */
+
+.navbar-brand{  color: rgb(255, 0, 64) !important;
+  font-size: 30px;
+font-weight: 700;  }
+p{
+  color: rgb(255, 0, 64) !important;
+}
+.audio{
+  width: 90%;
+}
+
+Link{
+  text-decoration: none;
+}
+#navarabic{
+  color: rgb(255, 0, 64) !important;
+  font-size: 25px;
+font-weight: 700;
+}
+#navEng{
+  color: rgb(255, 0, 64) !important;
+  font-size: 25px;
+font-weight: 700;
+text-decoration: none;
+display: none;
+}
+
+
+.nav-link{
+  font-size: 20px;
+  color: black !important;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.navbar-toggler:hover{
+  border: none ;
+  outline: none;
+
+}
+
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 0, 50)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+}
+  #photonav{
+    width: 80px;
+    height: 80px;
+  }
+  /* footer style */
+
+  footer{
+    width: 99.1%;
+    top:100px;
+    position: relative;
+    left: 0;
+    bottom: 20px;
+  }
+  .buttoms{
+    bottom: 0 !important;
+
+  }
+  #lastfooter2{
+    text-align: center;
+
+    background-color: rgb(245, 104, 104);
+    color: blanchedalmond;
+    height: 60px;
+    width: 4%;
+    padding: 20px;
+    top:80px;
+    bottom: 0;
+
+
+    
+  }
+  .lastfooter1{
+
+    color: rgb(246, 242, 241);
+    background-color:#f4eaea;
+    height: 200px;
+  }
+
+  footer h3 , p{
+    margin-top: 20px;
+    margin-left: 10px;
+    color: rgb(23, 21, 18);
+    padding: 10px;
+  }
+
+
+
+  input{
+    width: 50% !important;
+  }
+
+  th{
+padding: 1px !important;
+width: 20px;
+  }
+
+  .ankor_nav_right{
+    color: rgb(255, 80, 103) !important;
+    text-decoration: none;
+  }
+
+  button{
+    font-size: 18px;
+    background-color: red;
+    color: cornsilk;
+    border-radius: 50px;
+    border-color: red;
+    margin-left: 6px;
+  }
+
+
+  .iconface{
+    font-size: 30px;
+    margin-bottom: 6px;
+    margin-left: 20px;
+    border-radius: 20px;
+  }
+
+
+  .dropdown{
+    margin-right: 60px !important;
+    width: 300px;
+        direction: ltr;
+    margin-left: 1px !important;
+    margin-right: 1px !important;
+    text-align: center;
+text-transform: uppercase;
+  }
+  .dropdown-menu{
+    background-color: rgb(250, 255, 255);
+  }
+  .nav-link:hover{
+    border-top: 3px solid red;
+ }
+ center{
+   font-size: 120px;
+ }
+  .tabels{
+    overflow-x: auto !important;
+  }
+  .topnav-right {
+    left: 'auto',
+  }
+
+  .iconquetions{
+    font-size: 35px;
+    color: red;
+  
+  }
+  .clstrack{
+    border:1px solid rgb(228, 222, 222);
+    border-radius: 10px;
+    height: 300px;
+  }
+
+  .dropdown-toggle::after{
+    color: red;
+  }
+ 
+
+
+
+  .Stepper{
+    height: 600px !important;
+  }
