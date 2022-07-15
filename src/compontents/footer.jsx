@@ -27,14 +27,14 @@ function Footer() {
       <div class="row ">
       <div class="col-12 col-sm-6  lastfooter1">
       <h3>{t('bosta')}</h3>
-      <p>help@trust.com</p>
+      <p>help@THE-FISRT.com</p>
       <span className='iconface'><AiFillFacebook/> <AiFillTwitterSquare/></span>
     </div>
     <div class="col-12 col-sm-6 lastfooter1">
       <h3 style={{color:'red'}}>{t('Shipments')}</h3>
       <p>{t('Pricing')}</p>
     </div>
-<h5 id='lastfooter2' className='col'>Copyright ©2022 Hnzaker.com</h5>            
+<h5 id='lastfooter2' className='col'>Copyright ©2022 THE-FIRST.com</h5>            
           </div>
         
         </div>
