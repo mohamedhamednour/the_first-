@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/the_first-/static/css/main.e67210bd.css",
+    "main.js": "/the_first-/static/js/main.1e7084ad.js",
+    "static/media/bosta.png": "/the_first-/static/media/bosta.3150282a5346cd4282e3.png",
+    "index.html": "/the_first-/index.html",
+    "main.e67210bd.css.map": "/the_first-/static/css/main.e67210bd.css.map",
+    "main.1e7084ad.js.map": "/the_first-/static/js/main.1e7084ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e67210bd.css",
+    "static/js/main.1e7084ad.js"
+  ]
+}
