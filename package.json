@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://mohamedhamednour.github.io/the_first-/",
   "private": true,
   "dependencies": {
     "@ng-bootstrap/ng-bootstrap": "^2.1.2",
