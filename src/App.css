@@ -140,13 +140,19 @@ text-transform: uppercase;
     border-top: 3px solid red;
  }
  center{
-   font-size: 120px;
+   font-size: 60px;
+ }
+ .videos{
+   padding: 20px;
  }
   .tabels{
     overflow-x: auto !important;
   }
   .topnav-right {
     left: 'auto',
+  }
+  .vedioss{
+    width: 300px !important;
   }
 
   .iconquetions{
